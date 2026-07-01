@@ -66,9 +66,9 @@ function headerHTML() {
 	  
         
         <div class="sidebar-section">
-          <div class="sidebar-title">Section Title</div>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-          <p>Necessit atibus perferendis inventore tempore vel optio similique blanditiis quasi quam?</p>
+          <div class="sidebar-title">Haiiii</div>
+          <p>We are almost always doing shows! Check our instagram to stay updated on upcomming shows and new music releases! </p>
+          <p>Also keep your eyes out for the occasional merch drop!</p>
         </div>
         
         <div class="sidebar-section">
@@ -129,7 +129,7 @@ function footerHTML() {
       <!-- =============================================== -->
 
       <footer>
-            <div>Footer Text. <a href="/">Link.</a> Template generated with <a href="https://petrapixel.neocities.org/coding/layout-generator.html">petrapixel's layout generator</a>.</div>
+            <div>Thanks for taking a peak :3!</div>
       </footer>`;
 }
 
