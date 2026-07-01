@@ -28,7 +28,11 @@ function headerHTML() {
 
       <header>
 <div class="header-image">
-          <img src="https://i.imgur.com/3dxjcUt.png" alt="" />
+         <img
+      src="https://i.imgur.com/3dxjcUt.png"
+      alt=""
+      style="width: 150px; height: auto;"
+    />
         </div>
         <div class="header-content">
 	        <div class="header-title">SeeYouSoonTX!</div>
