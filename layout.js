@@ -60,10 +60,10 @@ function headerHTML() {
         <div class="sidebar-section">
           <div class="sidebar-title">Section Title</div>
           <marquee>
-          	<a href="https://i.imgur.com/SfLRNkj.jpeg" target="_blank"><img src="https://cdn.jsdelivr.net/gh/petracoding/petrapixel.neocities.org@latest/public/img/linkback.gif" alt="petrapixel"></a>
-          	<a href="https://petrapixel.neocities.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/petracoding/petrapixel.neocities.org@latest/public/img/linkback.gif" alt="petrapixel"></a>
-          	<a href="https://petrapixel.neocities.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/petracoding/petrapixel.neocities.org@latest/public/img/linkback.gif" alt="petrapixel"></a>
-          	<a href="https://petrapixel.neocities.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/petracoding/petrapixel.neocities.org@latest/public/img/linkback.gif" alt="petrapixel"></a>
+          	<img src="https://i.imgur.com/SfLRNkj.jpeg" alt="wruff"></a>
+          	<img src="https://i.imgur.com/hta3IUZ.jpeg" alt="wruff"></a>
+          	<img src="https://i.imgur.com/dxTvdPA.jpeg" alt="wruff"></a>
+          	<img src="https://i.imgur.com/dFTVPYm.jpeg" alt="wruff"></a>
           </marquee>
         </div>
         
