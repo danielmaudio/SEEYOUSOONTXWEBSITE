@@ -28,10 +28,10 @@ function headerHTML() {
 
       <header>
 <div class="header-image">
-          <img src="https://i.imgur.com/aE9r0w9.png" alt="" />
+          <img src="https://i.imgur.com/3dxjcUt.png" alt="" />
         </div>
         <div class="header-content">
-	        <div class="header-title">Website Title</div>
+	        <div class="header-title">SeeYouSoonTX!</div>
 	        
 	        <!-- NAVIGATION -->
 	        <nav>
@@ -41,15 +41,6 @@ function headerHTML() {
 	            <li><a href="/page2">Page 2</a></li>
 	            <li><a href="/page3">Page 3</a></li>
 	            <li>
-	                <strong>Submenu (hover to show)</strong>
-	                <ul>
-	                  <li><a href="/page-a">Page A</a></li>
-	                  <li><a href="/page-b">Page B</a></li>
-	                  <li><a href="/page-c">Page C</a></li>
-	                  <li><a href="/page-d">Page D</a></li>
-	                  <li><a href="/page-e">Page E</a></li>
-	                </ul>
-	            </li>
 	          </ul>
 	        </nav>
         	
