@@ -31,7 +31,7 @@ function headerHTML() {
          <img
       src="https://i.imgur.com/3dxjcUt.png"
       alt=""
-      style="width: 150px; height: auto;"
+      style="width: auto; height: auto;"
     />
         </div>
         <div class="header-content">
