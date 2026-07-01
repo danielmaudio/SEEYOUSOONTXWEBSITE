@@ -14,8 +14,8 @@
   /* Text Colors: */
   --text-color: #ffffff;
   --sidebar-text-color: #ffffff;
-  --link-color: #fe017f;
-  --link-color-hover: #fe017f;
+  --link-color: #3026e8;
+  --link-color-hover: #7780ec;
 
   /* Text: */
   --font: Garamond, serif;
@@ -90,7 +90,7 @@ a:focus {
   width: 1000px;
   display: grid;
   grid-gap: var(--margin);
-  grid-template: "header header header" auto "leftSidebar main rightSidebar" auto "footer footer footer" auto / var(--sidebar-width) auto var(--sidebar-width);
+  grid-template: "header header" auto "leftSidebar main" auto "footer footer" auto / var(--sidebar-width) auto;
   /* Confused by the grid? Check out my tutorial: https://petrapixel.neocities.org/coding/positioning-tutorial#grid */
 }
 
@@ -534,7 +534,7 @@ main h6 {
 
   .layout {
     width: 100%;
-    grid-template: "header" auto  "leftSidebar" auto "main" auto "footer" auto / 1fr;
+    grid-template: "header" auto  "main" auto "leftSidebar" auto "footer" auto / 1fr;
     /* Confused by the grid? Check out my tutorial: https://petrapixel.neocities.org/coding/positioning-tutorial#grid */
   }
 
