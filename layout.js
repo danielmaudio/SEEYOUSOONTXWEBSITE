@@ -74,14 +74,22 @@ function headerHTML() {
         </div>
         
         <div class="sidebar-section">
-          <div class="sidebar-title">Section Title</div>
-          <marquee>
-          	<a href="https://www.instagram.com/seeyousoontx/" target="_blank"><img src="https://i.imgur.com/pMds2vt.jpg" alt=""></a>
-          	<a href="https://www.instagram.com/seeyousoontx/" target="_blank"><img src="https://i.imgur.com/dFTVPYm.jpg" alt=""></a>
-          	<a href="https://www.instagram.com/seeyousoontx/" target="_blank"><img src="https://i.imgur.com/SfLRNkj.jpg" alt=""></a>
-          	<a href="https://www.instagram.com/seeyousoontx/" target="_blank"><img src="https://i.imgur.com/dxTvdPA.jpg" alt=""></a>
-          </marquee>
-        </div>
+    		<div class="sidebar-title">Section Title</div>
+    		<marquee>
+        		<a href="https://www.instagram.com/seeyousoontx/" target="_blank">
+            		<img src="https://i.imgur.com/pMds2vt.jpg" alt="" style="height:150px; width:auto;">
+        		</a>
+        		<a href="https://www.instagram.com/seeyousoontx/" target="_blank">
+            		<img src="https://i.imgur.com/dFTVPYm.jpg" alt="" style="height:150px; width:auto;">
+       		 	</a>
+        		<a href="https://www.instagram.com/seeyousoontx/" target="_blank">
+            		<img src="https://i.imgur.com/SfLRNkj.jpg" alt="" style="height:150px; width:auto;">
+        		</a>
+       	 		<a href="https://www.instagram.com/seeyousoontx/" target="_blank">
+            		<img src="https://i.imgur.com/dxTvdPA.jpg" alt="" style="height:150px; width:auto;">
+        		</a>
+    		</marquee>
+		</div>
         
         <div class="sidebar-section">
           <div class="sidebar-title">meow</div>
