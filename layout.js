@@ -72,9 +72,7 @@ function headerHTML() {
 			<img class="full-width-image" src="https://i.imgur.com/XYUzMXX.jpeg">
           </ul>
         </div>
-		
-		</div>
-        
+    
         <div class="sidebar-section">
     		<div class="sidebar-title">Band Photos!</div>
     		<marquee>
