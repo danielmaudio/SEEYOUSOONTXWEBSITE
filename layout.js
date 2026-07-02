@@ -57,26 +57,18 @@ function headerHTML() {
 	  
         
         <div class="sidebar-section">
-          <div class="sidebar-title">Haiiii</div>
+          <div class="sidebar-title">More Info</div>
           <p>We are almost always doing shows! Check our instagram to stay updated on upcomming shows and new music releases! </p>
           <p>Also keep your eyes out for the occasional merch drop!</p>
         </div>
         
         <div class="sidebar-section">
-          <div class="sidebar-title">Section Title</div>
-          <blockquote>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-            <p>Necessit atibus perferendis inventore tempore vel optio similique blanditiis quasi quam?</p>
-          </blockquote>
-        </div>
-        
-        <div class="sidebar-section">
-          <div class="sidebar-title">Section Title</div>
+          <div class="sidebar-title">Album Releases</div>
           <ul>
-            <li>List</li>
-            <li>List</li>
-            <li><a href="/">List</a></li>
-            <li>List</li>
+            <li>Listen To The Dogs Bark</li>
+			<img class="full-width-image" src="https://i.imgur.com/jb3Vmkn.jpeg">
+            <li>Why I Used To Hate The Ravens</li>
+			<img class="full-width-image" src="https://i.imgur.com/XYUzMXX.jpeg">
           </ul>
         </div>
         
