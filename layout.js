@@ -67,13 +67,13 @@ function headerHTML() {
           <ul>
             <li>Listen To The Dogs Bark</li>
 			<img class="full-width-image" src="https://i.imgur.com/jb3Vmkn.jpeg">
-			</div>
             <li>Why I Used To Hate The Ravens</li>
 			<img class="full-width-image" src="https://i.imgur.com/XYUzMXX.jpeg">
           </ul>
         </div>
     
-        <div class="sidebar-section">
+       
+		<div class="sidebar-section">
     		<div class="sidebar-title">Band Photos!</div>
     		<marquee>
         		<a href="https://www.instagram.com/seeyousoontx/" target="_blank">
