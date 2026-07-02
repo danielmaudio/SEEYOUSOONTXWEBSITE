@@ -67,6 +67,7 @@ function headerHTML() {
           <ul>
             <li>Listen To The Dogs Bark</li>
 			<img class="full-width-image" src="https://i.imgur.com/jb3Vmkn.jpeg">
+			</div>
             <li>Why I Used To Hate The Ravens</li>
 			<img class="full-width-image" src="https://i.imgur.com/XYUzMXX.jpeg">
           </ul>
@@ -75,25 +76,18 @@ function headerHTML() {
         <div class="sidebar-section">
           <div class="sidebar-title">Section Title</div>
           <marquee>
-          	<a href="https://petrapixel.neocities.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/petracoding/petrapixel.neocities.org@latest/public/img/linkback.gif" alt="petrapixel"></a>
-          	<a href="https://petrapixel.neocities.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/petracoding/petrapixel.neocities.org@latest/public/img/linkback.gif" alt="petrapixel"></a>
-          	<a href="https://petrapixel.neocities.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/petracoding/petrapixel.neocities.org@latest/public/img/linkback.gif" alt="petrapixel"></a>
-          	<a href="https://petrapixel.neocities.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/petracoding/petrapixel.neocities.org@latest/public/img/linkback.gif" alt="petrapixel"></a>
+          	<a href="https://www.instagram.com/seeyousoontx/" target="_blank"><img src="https://i.imgur.com/pMds2vt.jpg" alt=""></a>
+          	<a href="https://www.instagram.com/seeyousoontx/" target="_blank"><img src="https://i.imgur.com/dFTVPYm.jpg" alt=""></a>
+          	<a href="https://www.instagram.com/seeyousoontx/" target="_blank"><img src="https://i.imgur.com/SfLRNkj.jpg" alt=""></a>
+          	<a href="https://www.instagram.com/seeyousoontx/" target="_blank"><img src="https://i.imgur.com/dxTvdPA.jpg" alt=""></a>
           </marquee>
         </div>
         
         <div class="sidebar-section">
-          <div class="sidebar-title">Section Title</div>
-          <img class="full-width-image" src="https://picsum.photos/id/14/1000/400">
+          <div class="sidebar-title">meow</div>
+          <img class="full-width-image" src="https://i.imgur.com/7jMmoTO.png">
         </div>
         
-        <div class="sidebar-section">
-          <div class="sidebar-title">Section Title</div>
-          <div class="site-button">
-          	<a href="https://petrapixel.neocities.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/petracoding/petrapixel.neocities.org@latest/public/img/linkback.gif" alt="petrapixel"></a>
-        	<textarea><a href="https://petrapixel.neocities.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/petracoding/petrapixel.neocities.org@latest/public/img/linkback.gif" alt="petrapixel"></a></textarea>
-          </div>
-        </div>
       </aside>
 	
       `;
